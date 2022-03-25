@@ -1,2 +1,2 @@
 # javascript
- meu repósitorio de exercicios e desafios de javascript
+ meu repositório de exercicios e desafios de javascript
